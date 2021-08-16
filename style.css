@@ -1,0 +1,112 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 10px;
+   padding: 10px;
+}
+
+body {
+ background-color: #753422;
+ text-align: center;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #D79771;
+  text-align: center;
+
+
+}
+
+.navbar {
+  color: #D79771;
+  justify-content: space-evenly;
+  background-color: #B05B3B;
+  padding: 5px;
+  position: sticky;
+}
+
+a{
+  text-decoration: none;
+  color: navy;
+  font-size: 20px;
+  background-color: beigej
+  font-family: "Comic Sans", cursive;
+}
+
+#pic1{
+  width: 1150px;
+  height: 500px;
+  margin: 10px;
+}
+
+
+#des1{
+  font-family: "Comic Sans", serif;
+  margin-bottom: 2px;
+  text-align: left;
+  font-size: 40px;
+}
+
+#ans1{
+  font-family: "Comic Sans", cursive;
+  margin-top: 2px;
+  text-align: left;
+}
+
+#des2{
+  font-family: "Comic Sans", serif;
+  margin-bottom: 2px;
+  text-align: right;
+  font-size: 40px
+}
+
+#ans2{
+  font-family: "Comic Sans", cursive;
+  margin-top: 2px;
+  text-align: right;
+}
+
+#pic2{
+  max-width: 1150px;
+  max-height: 1150px;
+}
+
+#fact{
+  font-family: "Comic Sans", cursive;
+}
+
+#qlist{
+  font-family: "Comic Sans", serif;
+  margin-bottom: 2px;
+  font-size: 60px;
+}
+
+button{
+  border-radius: 10px;
+}
+
+#mdid{
+  font-family: "Comic Sans", cursive;
+  margin-top: 2px;
+  text-align: left;
+   color: #D79771;
+  font-size: 30px;
+}
+
+#didimg{
+    width:1000px;
+    height: auto;
+    margin: 10px;
+}
+
+.nav-list{
+  color:  #D79771;
+}
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
